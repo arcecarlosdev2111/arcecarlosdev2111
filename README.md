@@ -1,22 +1,43 @@
-# Carlos Eduardo Arce Hernández
+# 👨‍💻 Carlos Eduardo Arce Hernández
 
-## 👨‍💻 Sobre mí
+## 🧾 Sobre mí
 
-¡Hola! Soy estudiante de Ingeniería en Sistemas Computacionales apasionado por la tecnología, el desarrollo web y la administración de sistemas. Me gusta crear soluciones prácticas para problemas reales y mejorar procesos mediante el uso de software eficiente.
+Soy estudiante de **Ingeniería en Sistemas Computacionales** apasionado por la tecnología, el desarrollo web y la administración de sistemas. Me especializo en crear soluciones prácticas que resuelvan problemas reales, mejoren procesos y optimicen recursos mediante software eficiente.
 
-## Habilidades tecnicas
-- **Lenguajes de programacion:** Python, JavaScript, SQL.
-- **Frameworks y Herramientas:** Flask, FastAPI, Tailwind CSS, Bootstrap.
-- **Bases de datos:** MySQL, PostgreSQL, Oracle, MariaDB.
-- **Sistemas Operativos:** Windows, Mac OS, Linux (Derivados de Debian, Arch Linux y distribuciones derivadas, Amazon Linux, OpenSuse).
-- **Sistemas de control de versiones:** Git y GitHub.
-- **Diseño de interfaces:** HTML 5, CSS 3 e integracion Front-End y Back-End
+---
 
-## Proyectos realizados y logros
-- **Migracion de Sistema Operativo:** Se migraron las computadoras de la escuela Telesecundaria Dr Jose Maria Marroqui de sistema operativo Windows a GNU/Linux (Manjaro GNU/Linux), este cambio reflejo una mejoria en el rendimiento de los equipos de la institucion y reactivacion de equipos obsoletos. Al mismo tiempo los alumnos aprenden nuevas tecnologias y se adoptan a este nuevo entorno.
-- **Migracion de Sistema Operativo e instalacion de complemetos para la empresa Grupo Herradura Occidente:** Se cambia de sistema operativo en los equipos de boleteras a bordo en las unidades Halcones blancos de Jilotepec, de Windows a Ubuntu GNU/Linux, este cambio promete mas estabilidad y mejora el rendimiento de equipos, ademas evitar actulizaciones de sistema las cuales afectan a los servicios de la aplicacion propia de la empresa la cual igual se instalo con las dependencias haciendo uso de los gestores de paquetes e integracion de dispositivos GPS, Escaner de barras e Impresora.
-- **Sistema de Optimizacion de rutas para la empresa TMO de Mexico:** Se creo un sistema de optimizacion de ruta para entrega de materias primas y producto terminado, permitiendo hacer entregas y recolecciones as rapidas y ahorrando tiempo y dinero para empresa.
+## 🛠️ Habilidades Técnicas
 
-## Educacion
-- **Tecnologico de Estudios Superiores de Jilotepec:** (2019 - Inconclusa) Ing. Sistemas Computacionales.
-- **Centro de Bachillerato Tenologico industrial y de servicios No.180:** (2015 - 2018) Tecnico en Programacion.
+- 💻 **Lenguajes de programación:** Python, JavaScript, SQL  
+- ⚙️ **Frameworks y herramientas:** Flask, FastAPI, Tailwind CSS, Bootstrap  
+- 🗄️ **Bases de datos:** MySQL, PostgreSQL, Oracle, MariaDB  
+- 🐧 **Sistemas operativos:** Windows, macOS, Linux (Debian, Arch y derivados, Amazon Linux, OpenSUSE)  
+- 🔧 **Control de versiones:** Git y GitHub  
+- 🎨 **Diseño web:** HTML5, CSS3, integración Front-End / Back-End
+
+---
+
+## 🚀 Proyectos realizados y logros
+
+- 🏫 **Migración de Sistema Operativo - Escuela Telesecundaria Dr. José María Marroquí:**  
+  Migración de equipos de Windows a **Manjaro GNU/Linux**, mejorando el rendimiento y reactivando equipos obsoletos. Se fomenta además el aprendizaje de tecnologías libres entre los alumnos.
+
+- 🚌 **Instalación de Sistemas en Grupo Herradura Occidente:**  
+  Cambio de sistema operativo en boleteras a bordo (Ubuntu GNU/Linux), instalación de dependencias y dispositivos periféricos (GPS, escáner de código de barras e impresoras) para la aplicación propia de la empresa. Mayor estabilidad y control de actualizaciones.
+
+- 📦 **Sistema de Optimización de Rutas - TMO de México:**  
+  Desarrollo de sistema de logística para optimizar rutas de entrega y recolección de materias primas y productos terminados, reduciendo tiempos de entrega y costos operativos.
+
+---
+
+## 🎓 Educación
+
+- 🎓 **Tecnológico de Estudios Superiores de Jilotepec**  
+  *Ingeniería en Sistemas Computacionales* (2019 - Inconclusa)
+
+- 🧑‍💻 **CBTis No.180**  
+  *Técnico en Programación* (2015 - 2018)
+
+---
+
+> *“El software libre y el desarrollo bien pensado no solo optimizan sistemas, también transforman comunidades.”*
