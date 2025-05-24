@@ -18,4 +18,5 @@
 - **Sistema de Optimizacion de rutas para la empresa TMO de Mexico:** Se creo un sistema de optimizacion de ruta para entrega de materias primas y producto terminado, permitiendo hacer entregas y recolecciones as rapidas y ahorrando tiempo y dinero para empresa.
 
 ## Educacion
--**Tecnologico de Estudios Superiores de Jilotepec:** (2019 - Inconclusa) Ing. Sistemas Computacionales. 
+- **Tecnologico de Estudios Superiores de Jilotepec:** (2019 - Inconclusa) Ing. Sistemas Computacionales.
+- **Centro de Bachillerato Tenologico industrial y de servicios No.180:** (2015 - 2018) Tecnico en Programacion.
