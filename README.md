@@ -14,3 +14,8 @@
 
 ## Proyectos realizados y logros
 - **Migracion de Sistema Operativo:** Se migraron las computadoras de la escuela Telesecundaria Dr Jose Maria Marroqui de sistema operativo Windows a GNU/Linux (Manjaro GNU/Linux), este cambio reflejo una mejoria en el rendimiento de los equipos de la institucion y reactivacion de equipos obsoletos. Al mismo tiempo los almnos aprenden nuevas tecnologias y se adoptan a este nuevo entorno.
+- **Migracion de Sistema Operativo e instalacion de complemetos para la empresa Grupo Herradura Occidente:** Se cambia de sistema operativo en los equipos de boleteras a bordo en las unidades Halcones blancos de Jilotepec, de Windows a Ubuntu GNU/Linux, este cambio promete mas estabilidad y mejora el rendimiento de equipos, ademas evitar actulizaciones de sistema las cuales afectan a los servicios de la aplicacion propia de la empresa la cual igual se instalo con las dependencias haciendo uso de los gestores de paquetes e integracion de dispositivos GPS, Escaner de barras e Impresora.
+- **Sistema de Optimizacion de rutas para la empresa TMO de Mexico:** Se creo un sistema de optimizacion de ruta para entrega de materias primas y producto terminado, permitiendo hacer entregas y recolecciones as rapidas y ahorrando tiempo y dinero para empresa.
+
+## Educacion
+-**Tecnologico de Estudios Superiores de Jilotepec:** (2019 - Inconclusa) Ing. Sistemas Computacionales. 
